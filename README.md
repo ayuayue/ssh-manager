@@ -46,8 +46,11 @@
 - 私钥文件权限严格管控（0600）
 
 ## 截图
+<img width="1582" height="953" alt="SnowShot_2026-04-05_22-29-09" src="https://github.com/user-attachments/assets/8adf1f88-9aa2-4542-ab71-cecfa1e65de4" />
+<img width="1582" height="953" alt="SnowShot_2026-04-05_22-29-27" src="https://github.com/user-attachments/assets/8c56e177-47d3-4001-86ce-535e7cfd73ff" />
+<img width="1582" height="953" alt="SnowShot_2026-04-05_22-29-42" src="https://github.com/user-attachments/assets/8da2a9d9-7f19-47d4-8eaa-b72558899bd0" />
 
-> _(在此添加截图)_
+
 
 ## 环境要求
 
