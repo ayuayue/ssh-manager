@@ -4,6 +4,8 @@
 
 一款基于 [Wails](https://wails.app/) (Go + Vue 3) 构建的现代桌面 SSH 客户端和管理工具。在一个简洁美观的界面中管理 SSH 配置、密钥、主机，并支持多语言切换。
 
+友链：LinuxDo(https://linux.do)
+
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 ![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)
 ![Vue](https://img.shields.io/badge/Vue-3.4+-4FC08D?logo=vue.js)
