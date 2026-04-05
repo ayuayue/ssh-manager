@@ -1,0 +1,13 @@
+frontend/node_modules
+frontend/dist
+backend/*/node_modules
+*.exe
+*.dll
+*.so
+*.dylib
+*.db
+*.db-journal
+.DS_Store
+Thumbs.db
+*.log
+.env
